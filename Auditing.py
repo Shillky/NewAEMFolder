@@ -51,11 +51,7 @@ Instructions for setting up an audit:
 
 """
 #############
-#PackageName = input("Package Name: ")
-#WebpageURL = input("Webpage URL: ")
-#AEM_Sites_Folder_Path = input("AEM Site Folder Path: ")
-#AEM_Assets_Folder_Path = input("AEM Asset Folder Path: ")
-#print("\nThank You!\n")
+
 """
 PackageName = 'GreenhouseAudit'
 WebpageURL = 'greenhouses.caes.uga.edu'
