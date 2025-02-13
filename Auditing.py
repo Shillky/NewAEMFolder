@@ -615,5 +615,4 @@ if __name__ == '__main__':
     AEM_Assets_Folder_Path = '/content/dam/caes-subsite/greenhouses'
 
     print("\nThank You!\n")
-
     main()
